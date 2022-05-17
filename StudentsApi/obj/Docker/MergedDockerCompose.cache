@@ -1,0 +1,16 @@
+services:
+  studentsapi:
+    build:
+      context: C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi
+      dockerfile: StudentsApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: studentsapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\sadda\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\sadda\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

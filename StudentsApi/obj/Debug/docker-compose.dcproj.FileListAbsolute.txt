@@ -1,0 +1,15 @@
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\StudentsApi.deps.json
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\StudentsApi.runtimeconfig.json
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\StudentsApi.runtimeconfig.dev.json
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\appsettings.Development.json
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\appsettings.json
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\StudentsApi.exe
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\StudentsApi.dll
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\bin\Debug\StudentsApi.pdb
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\sadda\Desktop\ProjectsPractice\StudentManahement\StudentManagement\StudentsApi\obj\Debug\docker-compose.dcproj.CopyComplete
